@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Recipe Source App</string>
+    <string name="api_key">35a4e15e3ed24e4e808fe3d098161234</string>
+    <string name="api_key_1">7d6c86f9ec2d4a04b1c5e3bf14cc3bae</string>
+    <string name="api_key_2">f83f8522084e4edea768f8b7ec6e92fc</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_name">Name</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="log_in">Login</string>
+    <string name="generate_recipe">Generate Recipe</string>
+    <string name="past_recipes">My Recipes</string>
+    <string name="view_ingredients">View My Ingredients</string>
+    <string name="empty_ingredients">EMPTY</string>
+    <string name="add_ingredient">Add an ingredient</string>
+    <string name="add_to_my_recipes">Add Recipe</string>
+    <string name="remove_recipe">Remove Recipe</string>
+    <string name="view_this_recipe">View Recipe</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="recipe_ready_time">Ready In:&#160;%1$d Minutes</string>
+    <string name="recipe_used_ingredients">Used Ingredients:&#160;%1$s</string>
+    <string name="recipe_missed_ingredients">Missed Ingredients:&#160;%1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipe_source_menu_header">Recipe Source</string>
+    <string name="search_view_hint">Search</string>
+    <string name="usedIngredient_recipeInfo">Used Ingredients:&#160;</string>
+    <string name="missedIngredient_recipeInfo">Missed Ingredients:&#160;</string>
+    <string name="servings_amount">Servings:&#160;%1$d</string>
+    <string name="recipe_instructions">Instructions</string>
+    <string name="add_my_ingredient">Add Ingredients</string>
+    <string name="logout">Log Out</string>
+    <string name="about">ABOUT</string>
+    <string name="hi_message">Hi,&#160;%1$s\nWelcome to the Recipe Source App</string>
+    <string name="info_menu_header">Information</string>
+    <string name="developerInfo">This app generates recipes based on ingredients entered.\n\nDeveloper Name: Emi Mimiko
+    \n\nAttributions: Images by pch.vector on Freepik.\n\nJoseph Gonzalez at Unsplash\n\nIn case of a bug, contact: emi.i.mimiko@gmail.com</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="homepage">Home</string>
+
+
+</resources>

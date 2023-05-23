@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675718830948",
+    "project_id": "recipe-source-app",
+    "storage_bucket": "recipe-source-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675718830948:android:50925ee07b2c21e86d7871",
+        "android_client_info": {
+          "package_name": "com.mimiko.recipesourceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675718830948-642aldoknio81bpu887habt0ih1haibu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTXedKhHnQQka2GfbOQbcvZLFANsVc2A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675718830948-642aldoknio81bpu887habt0ih1haibu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
